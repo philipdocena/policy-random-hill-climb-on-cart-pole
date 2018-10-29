@@ -1,5 +1,6 @@
 # policy-random-hill-climb-on-cart-pole
 Randomized Hill Climb to search for optimal policy parameters in CartPole
+
 Philip Docena
 
 When I first read about reinforcement learning years ago, the first concept I learned was what I came to know as Q-learning, which calculates actions given some states via a comparison of maximized action-values.  It has proven its worth over the years (in recent years, DQN).  Less well-known (at least to me before OMSCS) is the concept of learning the policy directly from trajectories.
